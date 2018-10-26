@@ -4,7 +4,7 @@ import android.app.Application;
 import android.arch.lifecycle.LiveData;
 import android.os.AsyncTask;
 
-import com.pedro.androidroomwithaviewcodelab.WordRoomDatabase;
+import com.pedro.androidroomwithaviewcodelab.room.WordRoomDatabase;
 import com.pedro.androidroomwithaviewcodelab.dao.WordDao;
 import com.pedro.androidroomwithaviewcodelab.model.Word;
 

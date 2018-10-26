@@ -25,4 +25,11 @@ public class Word
 
     public String getWord(){return this.mWord;}
 
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setmWord(String mWord) {
+        this.mWord = mWord;
+    }
 }

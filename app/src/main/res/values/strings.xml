@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Room With A View Codelab</string>
+    <string name="action_settings">Settings</string>
+</resources>
